@@ -22,7 +22,7 @@
   "author": "moleculer-pdf",
   "license": "MIT",
   "peerDependencies": {
-    "moleculer": "^0.13.0"
+    "moleculer": "*"
   },
   "devDependencies": {
     "benchmarkify": "2.1.0",
